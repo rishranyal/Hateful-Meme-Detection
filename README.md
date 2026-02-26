@@ -1,7 +1,11 @@
 # Hateful-Meme-Detection
+
+<img width="307" height="411" alt="download (1)" src="https://github.com/user-attachments/assets/118fa844-0644-47df-a4a4-6a04b5edae96" />
+
 This project implements a multimodal hateful meme detection system using CLIP (ViT-B/32) to understand both images and text.
 A lightweight neural classifier is trained on top of CLIP embeddings to classify memes as:
  Hateful or Not Hateful
+ 
 
 # Goal: Build a practical baseline for automated hateful content moderation.
 
